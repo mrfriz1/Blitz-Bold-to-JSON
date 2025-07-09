@@ -22,10 +22,20 @@
         "NotoSans-Semibold": "https://github.com/mrfriz1/Blitz-Bold-to-JSON/blob/820886f89cfa3a3e25d80b1e5a61d770eb860293/BlitzBold.otf?raw=1",
         "SourceCodePro-Semibold": "https://github.com/mrfriz1/Blitz-Bold-to-JSON/blob/820886f89cfa3a3e25d80b1e5a61d770eb860293/BlitzBold.otf?raw=1"
     }
-    "style":{
-
-    
-        
-        "font-size": "10px" 
+      "settings": {
+    "typography": {
+      "fontSizes": [
+        {
+          "name": "Small",
+          "size": "13px",
+          "slug": "small"
+        },
+        {
+          "name": "Medium",
+          "size": "20px",
+          "slug": "medium"
+        }
+      ]
     }
+  }
 }
