@@ -21,6 +21,11 @@
         "NotoSans-NormalItalic": "https://github.com/mrfriz1/Blitz-Bold-to-JSON/blob/820886f89cfa3a3e25d80b1e5a61d770eb860293/BlitzBold.otf?raw=1",
         "NotoSans-Semibold": "https://github.com/mrfriz1/Blitz-Bold-to-JSON/blob/820886f89cfa3a3e25d80b1e5a61d770eb860293/BlitzBold.otf?raw=1",
         "SourceCodePro-Semibold": "https://github.com/mrfriz1/Blitz-Bold-to-JSON/blob/820886f89cfa3a3e25d80b1e5a61d770eb860293/BlitzBold.otf?raw=1"
-    "font-size": "10px" 
+    }
+    "style":{
+
+    
+        
+        "font-size": "10px" 
     }
 }
